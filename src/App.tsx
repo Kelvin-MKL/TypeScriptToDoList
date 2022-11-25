@@ -6,8 +6,8 @@ import {ListB} from "./pages/ListB"
 import {Navbar} from "./components/Navbar"
 import './App.css'
 
-const  App = () => {
-
+const App: React.FC = () => {
+  
 
   return (
     <>
